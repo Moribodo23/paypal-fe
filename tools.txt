@@ -1,0 +1,6 @@
+SDLC
+LINUX
+SCRIPTING
+GIT
+EC2
+~    
