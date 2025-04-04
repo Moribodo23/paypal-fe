@@ -1,3 +1,4 @@
 Application is ready to be deployed
 deployment must be reviewed
 work still on
+SLDC  is great 
